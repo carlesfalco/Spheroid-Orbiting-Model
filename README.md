@@ -1,4 +1,4 @@
-# Spheroid Mathematical Model
+# Orbiting Spheroid Mathematical Model
 
 This repository contains the code for the manuscript:  
 **"[Collective Transitions from Orbiting to Matrix Invasion in 3D Multicellular Spheroids](https://www.biorxiv.org/content/10.1101/2025.02.10.636936v1)"** by Jiwon Kim, Hyuntae Jeong, Carles Falcó, Alex M. Hruska, W. Duncan Martinson, Alejandro Marzoratti, Mauricio Araiza, Haiqian Yang, Christian Franck, José A. Carrillo, Ming Guo, and Ian Y. Wong.  
