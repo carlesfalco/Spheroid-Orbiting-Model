@@ -1,8 +1,7 @@
 # Spheroid Mathematical Model
 
 This repository contains the code for the manuscript:  
-**"Collective Transitions from Orbiting to Matrix Invasion in 3D Multicellular Spheroids"**,
-by Jiwon Kim, Hyuntae Jeong, Carles Falcó, Alex M. Hruska, W. Duncan Martinson, Alejandro Marzoratti, Mauricio Araiza, Haiqian Yang, Christian Franck, José A. Carrillo, Ming Guo, and Ian Y. Wong.  
+**"[Collective Transitions from Orbiting to Matrix Invasion in 3D Multicellular Spheroids](https://www.biorxiv.org/content/10.1101/2025.02.10.636936v1)"** by Jiwon Kim, Hyuntae Jeong, Carles Falcó, Alex M. Hruska, W. Duncan Martinson, Alejandro Marzoratti, Mauricio Araiza, Haiqian Yang, Christian Franck, José A. Carrillo, Ming Guo, and Ian Y. Wong.  
 
 ## Overview  
 This repository includes the code to:  
@@ -14,7 +13,7 @@ We use an **active particle-based model**, where cells are subject to:
 - **Cell-cell interactions**  
 - **Cell-matrix interactions**
 
-[![Watch the video](https://raw.githubusercontent.com/carlesfalco/Spheroid-Orbiting-Model/main/1bump-transition.png)](https://raw.githubusercontent.com/carlesfalco/Spheroid-Orbiting-Model/main/1bump-transition.mov)
+<img src="figs/1bump-transition.gif" style="width: 250px;"/>
 
 ## Contact  
 For any questions or inquiries, please contact:  
