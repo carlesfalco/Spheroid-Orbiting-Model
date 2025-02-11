@@ -12,7 +12,9 @@ This repository includes the code to:
 We use an **active particle-based model**, where cells are subject to:  
 - **Active-drag forces**  
 - **Cell-cell interactions**  
-- **Cell-matrix interactions**  
+- **Cell-matrix interactions**
+
+<video src='https://drive.google.com/file/d/1S3uVkPLHXpDuwS1tUnXRg_Y8yy3AloIE/view?usp=share_link' width=180/>
 
 ## Contact  
 For any questions or inquiries, please contact:  
