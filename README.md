@@ -14,7 +14,7 @@ We use an **active particle-based model**, where cells are subject to:
 - **Cell-cell interactions**  
 - **Cell-matrix interactions**
 
-<video src='' width=180/>
+<video src='1bump transition.mov' width=180/>
 
 ## Contact  
 For any questions or inquiries, please contact:  
