@@ -14,7 +14,7 @@ We use an **active particle-based model**, where cells are subject to:
 - **Cell-cell interactions**  
 - **Cell-matrix interactions**
 
-[![Watch the video]()](https://drive.google.com/file/d/1b4fm_LpxhrZrORwTDN7VkxeH36YJCLR6/view?usp=sharing)
+[![Watch the video](https://raw.githubusercontent.com/carlesfalco/Spheroid-Orbiting-Model/main/1bump-transition.png)](https://raw.githubusercontent.com/carlesfalco/Spheroid-Orbiting-Model/main/1bump-transition.mov)
 
 ## Contact  
 For any questions or inquiries, please contact:  
