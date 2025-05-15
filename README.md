@@ -15,6 +15,16 @@ We use an **active particle-based model**, where cells are subject to:
 
 <img src="figs/1bump-transition.gif" style="width: 250px;"/>
 
+The code in this repository has been successfully run under the following configuration:
+
+- **Operating System**: macOS 13.7.3 (Build 22H417)
+- **Python**: 3.9.7 (Anaconda “base” environment)
+- **Libraries**:
+  - `numpy`        1.24.3  
+  - `scipy`        1.13.1  
+  - `matplotlib`   3.9.2  
+  - `jupyter-core` 5.5.0 
+
 ## Contact  
 For any questions or inquiries, please contact:  
 
